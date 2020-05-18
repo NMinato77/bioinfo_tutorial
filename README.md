@@ -22,7 +22,8 @@ Pellin, D. et al., 2019, Nature Communications
 
 ### Tool
 
-* [SCANPY: large-scale single-cell gene expression data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0)  
+* [SCANPY: large-scale single-cell gene expression data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0)
+  
 Wolf, F. A. et al., 2018, Genome Biology
 
 * [PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x)  

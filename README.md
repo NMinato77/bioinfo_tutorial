@@ -58,7 +58,7 @@ Grønning, A. G. B., et al., 2020, bioRxiv
 
 ### Algorithm  
 
-*[From Louvain to Leiden: guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z)  
+* [From Louvain to Leiden: guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z)  
 Traag, V. A. et al., 2019, Scientific Reports  
 
 ## Key websites

@@ -18,17 +18,14 @@ Before beginning the tutorial, please set up your envirionment.
 ### Data
 
 * [A comprehensive single cell transcriptional landscape of human hematopoietic progenitors](https://www.nature.com/articles/s41467-019-10291-0)  
-
 Pellin, D. et al., 2019, Nature Communications  
 
 ### Tool
 
 * [SCANPY: large-scale single-cell gene expression data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0)
-
 Wolf, F. A. et al., 2018, Genome Biology
 
 * [PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x)
-
 Wolf, F. A. et al., 2019, Genome Biology  
 
 * [Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development](https://www.biorxiv.org/content/10.1101/2020.04.02.021295v3)  

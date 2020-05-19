@@ -22,7 +22,7 @@ Before beginning the tutorial, please set up your envirionment.
 2. Install the following libraries:  
 ` numpy pandas matplotlib scanpy seaborn leidenalg`    
 If you manage your environment with conda, I'd recommend you to add these channels before installation:  
-` conda config --add channels`  
+` conda config --add conda-forge`  
 ` conda config --add bioconda`  
 
 If you have any trouble setting up your environment, feel free to ask me!

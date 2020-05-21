@@ -60,6 +60,9 @@ Grønning, A. G. B., et al., 2020, bioRxiv
 
 * [From Louvain to Leiden: guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z)  
 Traag, V. A. et al., 2019, Scientific Reports  
+I'd recommend you to read the introduction of this paper, which is well-written and very cool!  
+* [UMAP does not preserve global structure any better than t-SNE when using the same initialization](https://www.biorxiv.org/content/10.1101/2019.12.19.877522v1)  
+Kobak, D & Linderman, G. C., 2019, bioRxiv 
 
 ## Key websites
 

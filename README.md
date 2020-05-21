@@ -7,7 +7,7 @@ This tutorial includes how to:
 1. manipulate scRNA-seq data with Python
 2. pre-process the data
 3. reduce the dimension of and cluster the data
-4. infer a latent trajectory of cells  
+4. find marker genes of cell types and annotate clusters
 
 ### Goals  
 Through this tutorial, you can learn:  
@@ -28,14 +28,13 @@ If you manage your environment with conda, I'd recommend you to add these channe
 If you have any trouble setting up your environment, feel free to ask me!
 
 ### Data
-I processed and uploaded the data we use [here](https://drive.google.com/drive/u/1/folders/17x4THurk7woJsXdYMadzTPBHBCaYzQ7w).  
-Please download and decompress the data in advance.  
+**I processed and uploaded the data we use [here](https://drive.google.com/drive/u/1/folders/17x4THurk7woJsXdYMadzTPBHBCaYzQ7w).**  
+**Please download and decompress the data in advance.**  
 If you are interested in the original, raw data, please go [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE117498).  
 This website is called Gene Expression Omnibus (GEO), which is one of the most popular database for gene expression data.  
 For now, I processed the original, raw data to save time, but when you want to use any data uploaded on a database, you need to download and process it yourself somehow.  
 That is often VERY time-consuming and not cool (but the real bioinformatics).  
 
-*UNDER CONSTRUCTION*  
 
 ---  
 

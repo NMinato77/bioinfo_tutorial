@@ -20,7 +20,7 @@ Through this tutorial, you can learn:
 Before beginning the tutorial, please set up your envirionment.  
 1. Install Python (>= ver. 3.6)
 2. Install the following libraries:  
-` numpy pandas matplotlib scanpy seaborn leidenalg`    
+` numpy pandas matplotlib scanpy seaborn louvain leidenalg`    
 If you manage your environment with conda, I'd recommend you to add these channels before installation:  
 ` conda config --add conda-forge`  
 ` conda config --add bioconda` 

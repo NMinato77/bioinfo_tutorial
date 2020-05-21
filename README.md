@@ -70,3 +70,12 @@ Kobak, D & Linderman, G. C., 2019, bioRxiv
 * [Ensembl](https://asia.ensembl.org/)  
 * [Scellnetor](https://exbio.wzw.tum.de/scellnetor//)
 
+## Further reading
+* [SPRING: a kinetic interface for visualizing high dimensional single-cell expression data](https://academic.oup.com/bioinformatics/article/34/7/1246/4708233)  
+Weinreb, C. et al., 2018, Bioinformatics  
+* [Fundamental limits on dynamic inference from single-cell snapshots](https://www.pnas.org/content/115/10/E2467)  
+Weinreb, C. et al., 2018, PNAS  
+* [Population snapshots predict early haematopoietic and erythroid hierarchies](https://www.nature.com/articles/nature25741)  
+Tusi, B. K. et al., 2018, Nature  
+* [Structure-Aware Data Consolidation](https://ieeexplore.ieee.org/document/8046026)  
+Wu, S. et al., 2018, IEEE Transactions on Pattern Analysis and Machine Intelligence

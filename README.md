@@ -23,7 +23,8 @@ Before beginning the tutorial, please set up your envirionment.
 ` numpy pandas matplotlib scanpy seaborn leidenalg`    
 If you manage your environment with conda, I'd recommend you to add these channels before installation:  
 ` conda config --add conda-forge`  
-` conda config --add bioconda`  
+` conda config --add bioconda` 
+3. Make sure you can use jupyter notebook. 
 
 If you have any trouble setting up your environment, feel free to ask me!
 
